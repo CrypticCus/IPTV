@@ -1,101 +1,109 @@
 #EXTM3U
-#EXTINF:0 group-title="Diğer Kanallar" ,ATV (Alternatif 1)
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/atv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/atv.png?raw=true" ,ATV (Alternatif 1)
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:0 group-title="Diğer Kanallar" ,ATV (Alternatif 2)
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/atv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/atv.png?raw=true" ,ATV (Alternatif 2)
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
-#EXTINF:0 group-title="Haber" ,Bloomberg HT (Altenatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" ,Bloomberg HT (Altenatif 1)
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-#EXTINF:0 group-title="Haber" ,Bloomberg HT (Altenatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" ,Bloomberg HT (Altenatif 2)
 https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
-#EXTINF:0 group-title="Haber" ,Bloomberg HT (Altenatif 3)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=truehttps://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" ,Bloomberg HT (Altenatif 3)
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:0 group-title="Haber" ,Bloomberg HT (Altenatif 4)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/bloomberght.png?raw=true" ,Bloomberg HT (Altenatif 4)
 https://www.youtube.com/watch?v=hI2_LfQr63U
-#EXTINF:0 group-title="Haber" ,CNN Türk (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/cnnturk.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/cnnturk.png?raw=true" ,CNN Türk (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
-#EXTINF:0 group-title="Haber" ,CNN Türk (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/cnnturk.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/cnnturk.png?raw=true" ,CNN Türk (Alternatif 2)
 https://www.youtube.com/watch?v=X_EWYemclKA
-#EXTINF:0 group-title="Eğlence" ,DMAX (Alternatif 1)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" ,DMAX (Alternatif 1)
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
-#EXTINF:0 group-title="Eğlence" ,DMAX (Alternatif 2)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" ,DMAX (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
-#EXTINF:0 group-title="Eğlence" ,DMAX (Alternatif 3)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" ,DMAX (Alternatif 3)
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:0 group-title="Eğlence" ,DMAX (Alternatif 4)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" ,DMAX (Alternatif 4)
 https://www.youtube.com/watch?v=WsR20zYhbIM
-#EXTINF:0 group-title="Haber" ,Flash TV (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:0 group-title="Haber" ,Flash TV (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 2)
 https://www.youtube.com/watch?v=9sPeT6OU9Y8
-#EXTINF:0 group-title="Haber" ,Flash TV (Alternatif 3)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 3)
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:0 group-title="Haber" ,Fox TV (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" ,Fox TV (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
-#EXTINF:0 group-title="Haber" ,Fox TV (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" ,Fox TV (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0 group-title="Haber" ,Habertürk (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/haberturk.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/haberturk.png?raw=true" ,Habertürk (Alternatif 1)
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:0 group-title="Haber" ,Habertürk (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/haberturk.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/haberturk.png?raw=true" ,Habertürk (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
-#EXTINF:0 group-title="Haber" ,Habertürk (Alternatif 3)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/haberturk.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/haberturk.png?raw=true" ,Habertürk (Alternatif 3)
 https://www.youtube.com/watch?v=SqHIO2zhxbA
-#EXTINF:0 group-title="Haber" ,Halk TV (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" ,Halk TV (Alternatif 1)
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
-#EXTINF:0 group-title="Haber" ,Halk TV (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" ,Halk TV (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF:0 group-title="Haber" ,Halk TV (Alternatif 3)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" ,Halk TV (Alternatif 3)
 https://www.youtube.com/watch?v=AzwT-gEsZBg
-#EXTINF:0 group-title="Diğer Kanallar" ,Kanal D
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/kanald.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/kanald.png?raw=true" ,Kanal D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 group-title="Haber" ,NTV (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" ,NTV (Alternatif 1)
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
-#EXTINF:0 group-title="Haber" ,NTV (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" ,NTV (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
-#EXTINF:0 group-title="Haber" ,NTV (Alternatif 3)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" ,NTV (Alternatif 3)
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
-#EXTINF:0 group-title="Haber" ,NTV (Alternatif 4)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" ,NTV (Alternatif 4)
 https://www.youtube.com/watch?v=XEJM4Hcgd3M
-#EXTINF:0 group-title="Diğer Kanallar" ,Show TV (Alternatif 1)
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/showtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/showtv.png?raw=true" ,Show TV (Alternatif 1)
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:0 group-title="Diğer Kanallar" ,Show TV (Alternatif 2)
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/showtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/showtv.png?raw=true" ,Show TV (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
-#EXTINF:0 group-title="Diğer Kanallar" ,Star TV (Alternatif 1)
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/startv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/startv.png?raw=true" ,Star TV (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
-#EXTINF:0 group-title="Diğer Kanallar" ,Star TV (Alternatif 2)
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/startv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/startv.png?raw=true" ,Star TV (Alternatif 2)
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:0 group-title="Diğer Kanallar" ,Star TV (Alternatif 3)
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/startv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/startv.png?raw=true" ,Star TV (Alternatif 3)
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:0 group-title="Haber" ,TELE 1
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tele1.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tele1.png?raw=true" ,TELE 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
-#EXTINF:0 group-title="Haber" ,TGRT (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tgrthaber.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tgrthaber.png?raw=true" ,TGRT (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
-#EXTINF:0 group-title="Haber" ,TGRT (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tgrthaber.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tgrthaber.png?raw=true" ,TGRT (Alternatif 2)
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
-#EXTINF:0 group-title="Belgesel" ,TGRT Belgesel
+#EXTINF:0 group-title="Belgesel" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tgrtbelgesel.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tgrtbelgesel.png?raw=true" ,TGRT Belgesel
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
-#EXTINF:0 group-title="Eğlence" ,TLC (Alternatif 1)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" ,TLC (Alternatif 1)
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
-#EXTINF:0 group-title="Eğlence" ,TLC (Alternatif 2)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" ,TLC (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
-#EXTINF:0 group-title="Eğlence" ,TLC (Alternatif 3)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" ,TLC (Alternatif 3)
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-#EXTINF:0 group-title="Eğlence" ,TLC (Alternatif 4)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" ,TLC (Alternatif 4)
 https://www.youtube.com/watch?v=TB7JCUN4bWM
-#EXTINF:0 group-title="Diğer Kanallar" ,TRT 1
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt1.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt1.png?raw=true" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Diğer Kanallar" ,TRT 2
+#EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt2.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt2.png?raw=true" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Belgesel" ,TRT Belgesel
+#EXTINF:0 group-title="Belgesel" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtbelgesel.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtbelgesel.png?raw=true" ,TRT Belgesel (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+#EXTINF:0 group-title="Belgesel" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtbelgesel.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtbelgesel.png?raw=true" ,TRT Belgesel (Alternatif 1)
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="Haber" ,TRT Haber
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trthaber.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trthaber.png?raw=true" ,TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="Spor" ,TRT Spor
+#EXTINF:0 group-title="Spor" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor.png?raw=true" ,TRT Spor (Alternatif 1)
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="Eğlence" ,TV8 (Alternatif 1)
+#EXTINF:0 group-title="Spor" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor.png?raw=true" ,TRT Spor (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:0 group-title="Spor" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor2.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor2.png?raw=true" ,TRT Spor Yıldız (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor2.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor2.png?raw=true" ,TRT Spor Yıldız (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" ,TV8 (Alternatif 1)
 http://livesx.canlitv.center/tv8hd.m3u8
-#EXTINF:0 group-title="Eğlence" ,TV8 (Alternatif 2)
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" ,TV8 (Alternatif 2)
 http://livesx.canlitv.center/tv8sz.m3u8
-#EXTINF:0 group-title="Haber" ,Ulusal Kanal (Alternatif 1)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" ,Ulusal Kanal (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
-#EXTINF:0 group-title="Haber" ,Ulusal Kanal (Alternatif 2)
+#EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" ,Ulusal Kanal (Alternatif 2)
 https://www.youtube.com/watch?v=_SamxaR4ggs
