@@ -1,0 +1,109 @@
+﻿#EXTM3U
+#EXTINF:0 ,ATV (Alternatif 1)
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:0 ,ATV (Alternatif 2)
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+#EXTINF:0 ,Bloomberg HT (Altenatif 1)
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:0 ,Bloomberg HT (Altenatif 2)
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:0 ,Bloomberg HT (Altenatif 3)
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:0 ,Bloomberg HT (Altenatif 4)
+https://www.youtube.com/watch?v=hI2_LfQr63U
+#EXTINF:0 ,CNN Türk (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
+#EXTINF:0 ,CNN Türk (Alternatif 2)
+https://www.youtube.com/watch?v=X_EWYemclKA
+#EXTINF:0 ,DMAX (Alternatif 1)
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:0 ,DMAX (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
+#EXTINF:0 ,DMAX (Alternatif 3)
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0 ,DMAX (Alternatif 4)
+https://www.youtube.com/watch?v=WsR20zYhbIM
+#EXTINF:0 ,Flash TV (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:0 ,Flash TV (Alternatif 2)
+https://www.youtube.com/watch?v=9sPeT6OU9Y8
+#EXTINF:0 ,Flash TV (Alternatif 3)
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:0 ,Fox TV (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:0 ,Fox TV (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 ,Habertürk (Alternatif 1)
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:0 ,Habertürk (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+#EXTINF:0 ,Habertürk (Alternatif 3)
+https://www.youtube.com/watch?v=SqHIO2zhxbA
+#EXTINF:0 ,Halk TV (Alternatif 1)
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+#EXTINF:0 ,Halk TV (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:0 ,Halk TV (Alternatif 3)
+https://www.youtube.com/watch?v=AzwT-gEsZBg
+#EXTINF:0 ,Kanal D
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 ,NTV (Alternatif 1)
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:0 ,NTV (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
+#EXTINF:0 ,NTV (Alternatif 3)
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:0 ,NTV (Alternatif 4)
+https://www.youtube.com/watch?v=XEJM4Hcgd3M
+#EXTINF:0 ,Show TV (Alternatif 1)
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:0 ,Show TV (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:0 ,Star TV (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:0 ,Star TV (Alternatif 2)
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:0 ,Star TV (Alternatif 3)
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:0 ,TELE 1
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
+#EXTINF:0 ,TGRT (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
+#EXTINF:0 ,TGRT (Alternatif 2)
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:0 ,TGRT Belgesel (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+#EXTINF:0 ,TGRT Belgesel (Alternatif 2)
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:0 ,TLC (Alternatif 1)
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:0 ,TLC (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
+#EXTINF:0 ,TLC (Alternatif 3)
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:0 ,TLC (Alternatif 4)
+https://www.youtube.com/watch?v=TB7JCUN4bWM
+#EXTINF:0 ,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 ,TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 ,TRT Belgesel (Alternatif 1)
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:0 ,TRT Belgesel (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:0 ,TRT Haber (Alternatif 1)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0 ,TRT Haber (Alternatif 2)
+https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:0 ,TRT Spor (Alternatif 1)
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:0 ,TRT Spor (Alternatif 2)
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 ,TV8 (Alternatif 1)
+http://livesx.canlitv.center/tv8hd.m3u8
+#EXTINF:0 ,TV8 (Alternatif 2)
+http://livesx.canlitv.center/tv8sz.m3u8
+#EXTINF:0 ,Ulusal Kanal (Alternatif 1)
+https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
+#EXTINF:0 ,Ulusal Kanal (Alternatif 2)
+https://www.youtube.com/watch?v=_SamxaR4ggs
