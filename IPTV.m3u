@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=WsR20zYhbIM
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 2)
-https://www.youtube.com/watch?v=9sPeT6OU9Y8
+https://www.youtube.com/watch?v=ivxyGzGEzm4
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 3)
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" ,Fox TV (Alternatif 1)
@@ -99,10 +99,8 @@ https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Spor" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor2.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trtspor2.png?raw=true" ,TRT Spor Yıldız (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" ,TV8 (Alternatif 1)
-http://livesx.canlitv.center/tv8hd.m3u8
-#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" ,TV8 (Alternatif 2)
-http://livesx.canlitv.center/tv8sz.m3u8
+#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tv8.png?raw=true" ,TV8
+http://190.2.148.141:80/bar1118/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" ,Ulusal Kanal (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ulusalkanal.png?raw=true" ,Ulusal Kanal (Alternatif 2)
