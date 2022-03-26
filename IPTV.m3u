@@ -21,12 +21,10 @@ https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 #EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" ,DMAX (Alternatif 3)
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/dmax.png?raw=true" ,DMAX (Alternatif 4)
-https://www.youtube.com/watch?v=WsR20zYhbIM
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 1)
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 2)
-https://www.youtube.com/watch?v=ivxyGzGEzm4
+https://www.youtube.com/watch?v=oRLKbKYFO_Y
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/flashtv.png?raw=true" ,Flash TV (Alternatif 3)
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=true" ,Fox TV (Alternatif 1)
@@ -44,7 +42,7 @@ https://halktv-live.ercdn.net/halktv/halktv.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" ,Halk TV (Alternatif 2)
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/halktv.png?raw=true" ,Halk TV (Alternatif 3)
-https://www.youtube.com/watch?v=AzwT-gEsZBg
+https://www.youtube.com/watch?v=T7oQa6FRJZ0
 #EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/kanald.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/kanald.png?raw=true" ,Kanal D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/ntv.png?raw=true" ,NTV (Alternatif 1)
@@ -79,8 +77,6 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
 #EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" ,TLC (Alternatif 3)
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-#EXTINF:0 group-title="Eğlence" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/tlc.png?raw=true" ,TLC (Alternatif 4)
-https://www.youtube.com/watch?v=TB7JCUN4bWM
 #EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt1.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt1.png?raw=true" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Diğer Kanallar" tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt2.png?raw=true" tvg-logo-small="https://github.com/CrypticCus/IPTV/blob/main/Logo/trt2.png?raw=true" ,TRT 2
